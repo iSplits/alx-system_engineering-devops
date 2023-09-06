@@ -1,2 +1,3 @@
 #!/bin/bash
 echo tail -n 1 "iacta"
+echo "Last line duplicated in 'iacta'."
