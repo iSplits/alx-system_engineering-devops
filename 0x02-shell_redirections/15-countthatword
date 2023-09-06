@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -c "bin" /etc/passwd
+count=$(grep -c "bin" /etc/passwd)
