@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "YourInputHere" | tr 'Ac' 'Ze'
+
