@@ -1,2 +1,2 @@
 #!/bin/bash
-IFS=$'\n' read -d '' -r -a words
+sort | uniq -u
