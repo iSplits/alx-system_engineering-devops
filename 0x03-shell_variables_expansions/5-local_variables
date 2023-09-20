@@ -1,0 +1,2 @@
+#!/bin/bash
+local_vars=$(set -o posix; set) env_vars=$(env) functions=$(declare -F)
